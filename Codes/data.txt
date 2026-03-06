@@ -1,0 +1,6 @@
+new filenew file handlingappending to a file
+ appending to a file
+appending to a file
+appending to a file
+new line
+python is easy
